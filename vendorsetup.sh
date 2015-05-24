@@ -1,4 +1,3 @@
-add_lunch_combo cm_mocha-eng
-add_lunch_combo cm_mocha-userdebug
+add_lunch_combo aosp_mocha-eng
 
 sh device/xiaomi/mocha/patch/applypatch.sh
